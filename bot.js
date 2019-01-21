@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' 1help','GaMerZ Community','Have Fun !',' Iam Here For Games',' 1help'];
+    var setGame = [' 1help','one server','Have Fun !',' الشيخ بريتي',' يارب'];
     var i = -1;
     var j = 0;
     setInterval(function (){
